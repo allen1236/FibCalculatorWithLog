@@ -3,7 +3,6 @@
 
 ## Dependencies & Requirements
 
-- Project dependencies
 ```bash
 # Install protobuf compiler
 $ sudo apt-get install protobuf-compiler
