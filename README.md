@@ -64,3 +64,5 @@ $ curl http://localhost:8000/rest/logs
 - Fibannaci: http://localhost:8000/rest/fibonnaci
 - Logs: http://localhost:8000/rest/logs
 
+## Demo Video
+https://youtu.be/ek22DFLPYcY
