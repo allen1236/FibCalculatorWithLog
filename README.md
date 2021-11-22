@@ -16,14 +16,6 @@ $ pip3 install -r requirements.txt
 
 ## How to run
 
-- Run the django REST server
-```bash
-$ cd rest/
-# Migrate database tables
-$ python3 manage.py migrate
-# Run the django rest server (at localhost:8000)
-$ python3 manage.py runserver
-```
 - Run the eclipse mosquitto docker container
 ```bash
 $ cd rest/fibonnaci/mqtt
@@ -47,6 +39,14 @@ $ make
 $ python3 server.py
 ```
 
+- Run the django REST server
+```bash
+$ cd rest/
+# Migrate database tables
+$ python3 manage.py migrate
+# Run the django rest server (at localhost:8000)
+$ python3 manage.py runserver
+```
 
 ## Using `curl` to perform client request
 
